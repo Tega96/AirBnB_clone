@@ -4,10 +4,8 @@ body{
         color: #484848;
         font-size: 14px;
         font-family: Circular,"Helvetica Neue",Helvetica,Aria,sans-serif;
-        background-image: url("../images/icon.png");
 }
 .container{
         max-width: 1000px;
-        margin: 30px;
-        position: relative;
+        margin: 30px auto;
 }
